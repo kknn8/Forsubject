@@ -30,30 +30,27 @@
 
 
 - 목록 안에 목록
-
-..* 또 다시 리스트가
-
-....* 한단계 더 아래!!
-
-..* 한단계 위로!
+    * 또 다시 리스트가
+        * 한단계 더 아래!!
+    * 한단계 위로!
 
 > 인용!!!!!!!~~~인용~~
 
-[과제를 위한 블로그(인라인 링크)](https://kknn8.github.io)
+* 인라인 링크 [8조 블로그](https://kknn8.github.io)
 
-[구글 사이트를 참조 링크로][Reference]
+* 참조 링크 [구글][Reference]
 
 [reference]: https://www.google.com
 
 
-![Illinare](http://imagesearch.naver.com/search.naver?sm=ext&viewloc=1&where=idetail&rev=31&auerv=)
+![Illinare](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif)
 
 
-|     일리네어     |    저스트 뮤직    |   빠샤MC  |
-|------------------|:-----------------:|----------:|    
-|      DOK2        | Swings & BlackNut | MCyouchan |
-|     Beenzino     | 천재노창 Vasco    |  이영승   |
-|    The Queitt    | CJamm  Giriboy    |  한도훈   |
+|     일리네어     |      저스트 뮤직      |    빠샤MC   |
+|------------------|:---------------------:|------------:|    
+|      DOK2        |   Swings & BlackNut   |   MCyouchan |
+|     Beenzino     |   천재노창 Vasco      |   이영승    |
+|    The Queitt    |   CJamm  Giriboy      |   한도훈    |
 
 
 ```C++
