@@ -2,27 +2,11 @@
   GNU nano 2.2.6             파일: 2015-05-25.md
 
 # H1
-## H2
-### H3
 
 Alternatively, for H1 and H2, an underline-ish style:
 
 Alt-H1
 =====
-
-Alt-H2
------
- 
-
-
-=======
-# H1
-## H2
-
-Alternatively, for H1 and H2, an underline-is style:
-
-Alt-H1
-======
 
 Alt-H2
 ------
@@ -31,9 +15,10 @@ Alt-H2
 
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
+
 Strong emephasis, aka bold, with **asterisks** or __underscores__.
+
 Combined emphasis with **asterisks and _underscores_**.
-Strikethrough uses two tildes. ~~Scratch this.~~
 
 
 
@@ -41,18 +26,23 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 1. First ordered list item
 2. Another item
 
->>>>>>> temp1
-...To have a line break without a paragraph, you will need to use two trailing $
-
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
-<<<<<<< HEAD
+
+
+
 [I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage$
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
-[arbitrary case-insensitiv reference text]: https://www.mozilla.org
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+
+
+
 
 Here's our logo (hover to see the title text):
 
@@ -60,33 +50,11 @@ Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/image$
 
 
-```javascript
-var s = "JavaScript syntax highlighting";
-
-=======
-
-
-
-[I'm an inline-style link](https://www.google.com)
-[I'm a reference-style link][Arbitrary case-insensitive referenc text]
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-
-
-
-
-Here's our logo
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
-
 
 
 ```javascripte
 var s = "JavaScript syntax highlighting";
 alert(s);
->>>>>>> temp1
 ```
 
 ```python
@@ -96,18 +64,9 @@ print s
 
 ```
 No language indicated, so no syntax highlighting.
-<<<<<<< HEAD
 But let's throw in a <b>tag</b>/
 ```
 
-The outer pipes (|) are potional, and tou don't need to make the raw Markdown l$
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | 'renders' | **nicely**
-=======
-But let's throw in a <b>tag</b>.
-```
 
 
 
@@ -116,5 +75,4 @@ The outer pipes (|) are optional, and you don;t need to make the raw Markdown li
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
->>>>>>> temp1
 1 | 2 | 3
