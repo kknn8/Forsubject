@@ -57,7 +57,7 @@ categories: jekyll update
 
 |     일리네어     |      저스트 뮤직      |    빠샤MC   |
 |------------------|:---------------------:|------------:|    
-|      DOK2        |   Swings & BlackNut   |   MCyouchan |
+|      DOK2        |   Swings & BlackNut   |   노유찬    |
 |     Beenzino     |   천재노창 Vasco      |   이영승    |
 |    The Queitt    |   CJamm  Giriboy      |   한도훈    |
 
