@@ -1,4 +1,4 @@
-  GNU nano 2.2.6             파일: 2015-05-25.md                                
+  GNU nano 2.2.6             파일: 2015-05-25.md
 
 # H1
 ## H2
@@ -11,29 +11,14 @@ Alt-H1
 
 Alt-H2
 -----
+ 
 
-
-
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-Strong emephasis, aka bold, with **asterisks** or __underscores__.
-Combined emphasis with **asterisks and _underscores_**.
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-
-
-
-1. First ordered list item
-2. Another item
 
 ...To have a line break without a paragraph, you will need to use two trailing $
 
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-
-
-
 
 [I'm an inline-style link](https://www.google.com)
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage$
@@ -44,16 +29,6 @@ Here's our logo (hover to see the title text):
 
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/image$
-
-
-
-
-Here's our log (hover to see the title text):
-
-Inline-style:
-![alt text](https://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif "Logo Title Text 1")
-
-
 
 
 ```javascript
@@ -70,9 +45,6 @@ print s
 No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>/
 ```
-
-
-
 
 The outer pipes (|) are potional, and tou don't need to make the raw Markdown l$
 
