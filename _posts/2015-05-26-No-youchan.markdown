@@ -1,3 +1,10 @@
+---
+layout: post
+title: "No You Chan"
+date:  2015-05-26 2:21:01
+categories: jekyll update
+---
+
 # 제작 : 노유찬
 
 ## 큰 제목
@@ -55,11 +62,12 @@
 |    The Queitt    |   CJamm  Giriboy      |   한도훈    |
 
 
-    C++
+{% highlight ruby %}
 #include <stdio.h>
+
 int main()
 {
     printf("Hello World\n");
     return 0;
 }
-    
+{% endhighlight %} 
