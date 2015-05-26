@@ -62,7 +62,7 @@ categories: jekyll update
 |      컴시기      |   노유찬              |   1공       |
 |     미분방정식   |   김민지              |   2공       |
 |     디지털 공학  |   노주영              |   3공       |
-
+|     일본어       |   김동우              |   4공       |
 
 {% highlight ruby %}
 #include <stdio.h>
